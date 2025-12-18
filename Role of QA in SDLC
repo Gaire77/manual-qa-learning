@@ -1,0 +1,23 @@
+Role of QA in SDLC
+## Requirement gathering and analysis
+ QA role:
+- Participate in requirement review meetings
+- Ensure requirements are clear,complete , testable and traceable
+- Help write acceptence criteria
+
+##Development
+  QA role:
+-Collaborate Closely with Developers
+-Write detailed test cases,test scenarios and test data
+
+## Testing
+QA roles:
+-Execute Test Cases
+-User acceptence testing support
+-log defects and verify fixes
+
+##Deployment
+QA roles:
+-Perform Smoke/sanity test.
+-Support Release team with test execution or documentation
+
