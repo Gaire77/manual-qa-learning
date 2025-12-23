@@ -1,0 +1,13 @@
+#Test Case Design Technique
+#Boundry Value Analysis(BVA)
+-Testing the boundries of input that are just inside,minimum,maximum,just outside
+
+#Equivalence partioning
+-Testing the value,Valid partition,Invalid partition
+
+#Decison Table
+-Decision table is used when there are multiple conditions that leas to diffrent actions
+
+#state transition
+-state transition is testing if the page is transitioning into different states or different pages
+
