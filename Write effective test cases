@@ -1,0 +1,7 @@
+#How to write effective test cases
+1. Understand Requirement clearly
+2.Use clear and standard test case structure
+3.Good title
+4. Keep steps clear,simpleand numbered
+5. write expected result precisely
+6. Resuse test steps when possible
