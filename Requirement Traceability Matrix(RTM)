@@ -1,0 +1,12 @@
+Requirement Traceability Matrix(RTM)
+A requirement traceability matrix is a documrnt or table that
+maps the test cases to requirements to ensure that all the requirements are tested.
+
+#When is RTM Created?
+-After requirements are finalized
+-Along with test case creation
+-Updated whenever requirement change
+
+# Why RTM is important?
+-Ensures 100% requirement coverage
+-Prevent missing test cases
