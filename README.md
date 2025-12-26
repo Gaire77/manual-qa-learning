@@ -10,3 +10,4 @@ This repository contains my manual QA learning notes.
 -Test Case Development
 -Test Case Design Techniques
 -Writing Effective Test Cases
+-Requirement Traceability Matrix(RTM)
